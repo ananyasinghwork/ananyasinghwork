@@ -9,6 +9,11 @@ ananyasinghwork/ananyasinghwork is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 <br> </br>
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ananyasinghwork)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ananyathesingh/)
+[![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ananyasingh0421@gmail.com)
+
+<br> </br>
 [![Ananya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ananyasinghwork&theme=github-light)](https://github.com/ananyasinghwork/github-readme-activity-graph)
 
 <br> </br>
