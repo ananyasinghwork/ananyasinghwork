@@ -14,10 +14,5 @@ You can click the Preview link to take a look at your changes.
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ananyasingh0421@gmail.com)
 
 <br> </br>
-[![Ananya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ananyasinghwork&theme=github-light)](https://github.com/ananyasinghwork/github-readme-activity-graph)
-
-<br> </br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ananyasinghwork&size_weight=0.5&count_weight=0.5)
 
-
-![Ananya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ananyasinghwork&show_icons=true&bg_color=00000000)
