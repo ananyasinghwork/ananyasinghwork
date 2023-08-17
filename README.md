@@ -14,5 +14,10 @@ You can click the Preview link to take a look at your changes.
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ananyasingh0421@gmail.com)
 
 <br> </br>
+
+![](https://komarev.com/ghpvc/?username=ananyasinghwork&color=blueviolet&style=flat&label=PROFILE+VIEWS)
+
+<br><br>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ananyasinghwork&size_weight=0.5&count_weight=0.5)
 
