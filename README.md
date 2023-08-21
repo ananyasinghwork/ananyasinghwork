@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ananya Singh. I’m 21 years old.
-- 👀 I’m a pre-final year student of Electronics in Bangalore, India.
-- 🌱 I’m currently working on my skills - C, C++, Python Front-end, Machine Learning and AI.
+- 👀 I’m a final year student of Electronics in Bengaluru, India.
+- 🌱 I’m currently working on my skills - C, C++, Python, HTML, CSS, JS, Bootstrap, Machine Learning and AI.
 - 🎯I look for a way to implement my technical skills to solve everyday problems.
 - ✨Besides this, I spend my time writing, reading books, Staying updated with current affairs and just living life.
 
