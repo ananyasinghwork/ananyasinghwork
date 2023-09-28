@@ -1,9 +1,4 @@
-- 👋 Hi, I’m Ananya Singh. I’m 21 years old.
-- 👀 I’m a final year student of Electronics in Bengaluru, India.
-- 🌱 I’m currently working on my skills - C, C++, Python, HTML, CSS, JS, Bootstrap, Machine Learning and AI.
-- 🎯 I look for a way to implement my technical skills to solve everyday problems.
-- ✨ Besides this, I enjoy my time writing, reading books, Staying updated with current affairs and just living life.
-
+- 👋 Hi, I’m Ananya Singh.
 <!---
 ananyasinghwork/ananyasinghwork is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
